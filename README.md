@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Parkhe</h1>
-<h3 align="center">A passionate Data Science Enthusiast and Python Developer/MERN Stack Developer</h3>
+<h3 align="center">A passionate about Full Stack Developer </h3>
 <p align="center">
   <a href="https://github.com/parkhesakshi/parkhesakshi"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+saskhiparkhe;I+am+Engineering+student;Python+Developer;Data+Science+Enthusiast;Web+Developer"></a>
 </p>
