@@ -5,8 +5,8 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkhesaskhi&label=Profile%20views&color=0e75b6&style=flat" alt="parkhesakshi" /> </p>
 
+- 🌱 Certified Full Stack Developer
 - 🔭 I’m currently working on some MERN Stack Projects
-- 🌱 Certified Full Stack Development
 
 
 ## 🌐Socials
